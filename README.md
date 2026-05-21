@@ -12,7 +12,7 @@ Industrial black masterbatch is widely used in modern plastic manufacturing for 
 - 
 **- BENEFITS SECTION
 **
-  - ## Key Benefits
+ ## Key Benefits
 
 - Strong UV resistance
 - Excellent carbon black dispersion
@@ -20,6 +20,15 @@ Industrial black masterbatch is widely used in modern plastic manufacturing for 
 - Weather resistance
 - Thermal stability
 - Long-term outdoor durability
+
+## Technical Performance Areas
+
+| Property | Performance Benefit |
+|---|---|
+| UV Resistance | Outdoor durability |
+| Carbon Black Dispersion | Uniform coloration |
+| Thermal Stability | High processing performance |
+| Weather Resistance | Long-term industrial usage |
 
 - FAQ SECTION
 
